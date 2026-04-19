@@ -3,12 +3,12 @@
 # Hi 👋, I'm Niranjan
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=535&lines=Full+Stack+AI+Developer;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <br>
-  <em>A passionate Full Stack Developer focused on building modern, robust, and scalable applications.</em>
+  <em>A passionate Full Stack AI Developer focused on building modern, robust, and scalable AI-driven applications.</em>
 </p>
 
 ### 🌐 Connect with Me
@@ -39,9 +39,9 @@
 <summary><b>Click to expand and learn more about my journey!</b></summary>
 <br>
 
-- 🌅 **Who am I:** A dedicated developer with a **passion for software development** and creating solutions that make a difference.
-- 💻 **What I do:** I primarily focus on **Full Stack technologies**, working across the stack from rich user interfaces to solid and scalable backends.
-- 🏗️ **My interests:** Exploring new tech trends, **building real-world applications**, and continually refining my software architecture skills.
+- 🌅 **Who am I:** A dedicated developer with a **passion for AI and software development** and creating solutions that make a difference.
+- 💻 **What I do:** I primarily focus on **Full Stack AI technologies**, working across the stack from rich user interfaces to intelligent, scalable backends.
+- 🏗️ **My interests:** Exploring new tech trends, **building real-world AI applications**, and continually refining my software architecture skills.
 - 🌱 **Currently learning:** Advanced system design patterns, cloud integration, and exploring more within the JavaScript & Java ecosystems.
 - 🤝 **Collaboration:** I'm always **open to learning** from others and collaborating on exciting open-source or community projects.
 
@@ -124,6 +124,8 @@
 | :--- | :--- | :--- | :--- |
 | **Finance Dashboard** | A responsive financial dashboard with data visualization. | React, Recharts, Context API | [Demo/Repo](#) |
 | **Trading Bot** | A modular Python CLI app for Binance Futures trading. | Python, Binance API | [Demo/Repo](#) |
+| **GitHub Analytics** | An interactive dashboard showing rich GitHub user stats. | React, Tailwind, Framer | [Demo/Repo](#) |
+| **AR Commerce** | An augmented reality e-commerce application. | AR, 3D Modeling, Mobile/Web | [Demo/Repo](#) |
 
 <br>
 
