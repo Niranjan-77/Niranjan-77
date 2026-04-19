@@ -1,77 +1,140 @@
 <div align="center">
-Hi 👋, I'm Niranjan S
-A passionate AI and FullStack developer from TamilNadu
-Show Image
-</div>
 
+# Hi 👋, I'm Niranjan
 
-🎓 I'm currently studying at Karpagam Institute Of Technology
-🌱 I'm currently learning Fullstack and AI
-💬 Ask me about Web development
-📫 How to reach me: niranjanofficial001@gmail.com
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
+</a>
 
+<p align="center">
+  <br>
+  <em>A passionate Full Stack Developer focused on building modern, robust, and scalable applications.</em>
+</p>
 
-🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niranjan-saravanan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/23ecb27/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://github.com/Niranjan-77" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Niranjan-77">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:niranjanofficial001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-🛠️ Tech Stack
-💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
-🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-☁️ DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-🚀 Live Projects
-ProjectDescription🧠 MindMockAI Interview Platform📊 Retail AnalyzerBusiness Insights Tool💰 CashFloFinance Tracker💳 Card SmartCard Manager💬 ChatterboxReal Time Chat🤖 AI ChatbotConversational AI📦 DistributorSystem Platform🌿 HerbifyWeb Platform
-
-📊 GitHub Analytics
-<div align="center">
-Show Image
-Show Image
-Show Image
+![](https://komarev.com/ghpvc/?username=Niranjan-77&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 </div>
 
+---
 
+## 🚀 About Me
+
+<details>
+<summary><b>Click to expand and learn more about my journey!</b></summary>
+<br>
+
+- 🌅 **Who am I:** A dedicated developer with a **passion for software development** and creating solutions that make a difference.
+- 💻 **What I do:** I primarily focus on **Full Stack technologies**, working across the stack from rich user interfaces to solid and scalable backends.
+- 🏗️ **My interests:** Exploring new tech trends, **building real-world applications**, and continually refining my software architecture skills.
+- 🌱 **Currently learning:** Advanced system design patterns, cloud integration, and exploring more within the JavaScript & Java ecosystems.
+- 🤝 **Collaboration:** I'm always **open to learning** from others and collaborating on exciting open-source or community projects.
+
+</details>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" alt="Frontend Skills" />
+</a>
+<br><br>
+
+### Backend
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql&theme=dark" alt="Backend Skills" />
+</a>
+<br><br>
+
+### DevOps & Tools
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" alt="DevOps Tools" />
+</a>
+<br>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niranjan-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+</p>
+
+### Streak Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan-77&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+### Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjan-77&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
+</p>
+
+</div>
+
+---
+
+## 🔥 Contribution Heatmap
+
+<div align="center">
+  
+> **Note:** To see the animated GitHub snake, ensure you have set up the GitHub Action in this repository.
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niranjan-77/Niranjan-77/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niranjan-77/Niranjan-77/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niranjan-77/Niranjan-77/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+| 📛 Project Name | 📜 Description | 🚀 Tech Stack | 🔗 Link |
+| :--- | :--- | :--- | :--- |
+| **Finance Dashboard** | A responsive financial dashboard with data visualization. | React, Recharts, Context API | [Demo/Repo](#) |
+| **Trading Bot** | A modular Python CLI app for Binance Futures trading. | Python, Binance API | [Demo/Repo](#) |
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/More_Projects_Coming_Soon-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+  <h3>"First, solve the problem. Then, write the code." — John Johnson</h3>
+  <br>
+  <i>Thank you for visiting my profile! Feel free to reach out or explore my repositories.</i>
+</div>
