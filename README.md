@@ -120,8 +120,8 @@
 
 ## 📂 Featured Projects
 
-| 📛 Project Name | 📜 Description | 🚀 Tech Stack | 🔗 Link |
-| :--- | :--- | :--- | :--- |
+| 📛 Project Name | 📜 Description | 🚀 Tech Stack |
+| :--- | :--- | :--- | 
 | **AR Commerce** | An augmented reality e-commerce application. | AR, 3D Modeling, Mobile/Web |
 | **Finance Dashboard** | A responsive financial dashboard with data visualization. | React, Recharts, Context API |
 | **Trading Bot** | A modular Python CLI app for Binance Futures trading. | Python, Binance API | 
