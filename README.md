@@ -137,7 +137,6 @@
 ---
 
 <div align="center">
-  <h3>"First, solve the problem. Then, write the code." — John Johnson</h3>
   <br>
   <i>Thank you for visiting my profile! Feel free to reach out or explore my repositories.</i>
 </div>
