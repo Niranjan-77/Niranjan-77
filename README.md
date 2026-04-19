@@ -122,10 +122,11 @@
 
 | 📛 Project Name | 📜 Description | 🚀 Tech Stack | 🔗 Link |
 | :--- | :--- | :--- | :--- |
-| **Finance Dashboard** | A responsive financial dashboard with data visualization. | React, Recharts, Context API | [Demo/Repo](#) |
-| **Trading Bot** | A modular Python CLI app for Binance Futures trading. | Python, Binance API | [Demo/Repo](#) |
-| **GitHub Analytics** | An interactive dashboard showing rich GitHub user stats. | React, Tailwind, Framer | [Demo/Repo](#) |
-| **AR Commerce** | An augmented reality e-commerce application. | AR, 3D Modeling, Mobile/Web | [Demo/Repo](#) |
+| **AR Commerce** | An augmented reality e-commerce application. | AR, 3D Modeling, Mobile/Web |
+| **Finance Dashboard** | A responsive financial dashboard with data visualization. | React, Recharts, Context API |
+| **Trading Bot** | A modular Python CLI app for Binance Futures trading. | Python, Binance API | 
+
+
 
 <br>
 
