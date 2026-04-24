@@ -53,6 +53,13 @@
 
 <div align="center">
 
+### Programming Languages
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="Programming Languages" />
+</a>
+<br><br>
+
 ### Frontend
 <br>
 <a href="https://skillicons.dev">
@@ -64,6 +71,13 @@
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql&theme=dark" alt="Backend Skills" />
+</a>
+<br><br>
+
+### Programming Languages
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="Programming Languages" />
 </a>
 <br><br>
 
@@ -101,6 +115,14 @@
 </div>
 
 ---
+
+## 🌐 Live Projects
+
+| 📛 Project Name | 📜 Description | 🚀 Tech Stack | 🔗 Live Link |
+| :--- | :--- | :--- | :--- |
+| **AI Doubt Solver** | A Next-Generation, Multi-Modal Learning Companion. | MERN, LLaMA, AssemblyAI | [Live Demo](https://ai-doubt-solver-lymm.onrender.com) |
+
+<br>
 
 ## 📂 Featured Projects
 
