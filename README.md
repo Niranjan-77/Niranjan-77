@@ -74,19 +74,47 @@
 </a>
 <br><br>
 
-### Programming Languages
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="Programming Languages" />
-</a>
-<br><br>
-
 ### DevOps & Tools
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" alt="DevOps Tools" />
 </a>
 <br>
+</div>
+
+---
+
+<div align="center">
+  <h2>🌟 Showcasing My Best Work 🌟</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=400&lines=Building+impactful+solutions;Turning+ideas+into+reality" alt="Typing SVG" />
+</div>
+
+<br>
+
+### 🌐 Live Projects
+
+> **💡 Check it out:** Below is my latest project successfully deployed to production. Give it a try!
+
+| 📛 Project Name | 📜 Description | 🚀 Tech Stack | 🔗 Live Link |
+| :--- | :--- | :--- | :--- |
+| **✨ AI Doubt Solver** | A Next-Generation, Multi-Modal Learning Companion. | MERN, LLaMA, AssemblyAI | [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4154?style=for-the-badge&logo=render&logoColor=white)](https://ai-doubt-solver-lymm.onrender.com) |
+
+<br>
+
+### 📂 Featured Projects
+
+> **🛠️ Currently Building:** Here are some other impactful projects I've developed.
+
+| 📛 Project Name | 📜 Description | 🚀 Tech Stack |
+| :--- | :--- | :--- | 
+| **🛒 AR Commerce** | An augmented reality e-commerce application. | AR, 3D Modeling, Mobile/Web |
+| **📈 Finance Dashboard** | A responsive financial dashboard with data visualization. | React, Recharts, Context API |
+| **🤖 Trading Bot** | A modular Python CLI app for Binance Futures trading. | Python, Binance API | 
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/More_Projects_Coming_Soon-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
@@ -112,32 +140,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjan-77&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
 </p>
 
-</div>
-
----
-
-## 🌐 Live Projects
-
-| 📛 Project Name | 📜 Description | 🚀 Tech Stack | 🔗 Live Link |
-| :--- | :--- | :--- | :--- |
-| **AI Doubt Solver** | A Next-Generation, Multi-Modal Learning Companion. | MERN, LLaMA, AssemblyAI | [Live Demo](https://ai-doubt-solver-lymm.onrender.com) |
-
-<br>
-
-## 📂 Featured Projects
-
-| 📛 Project Name | 📜 Description | 🚀 Tech Stack |
-| :--- | :--- | :--- | 
-| **AR Commerce** | An augmented reality e-commerce application. | AR, 3D Modeling, Mobile/Web |
-| **Finance Dashboard** | A responsive financial dashboard with data visualization. | React, Recharts, Context API |
-| **Trading Bot** | A modular Python CLI app for Binance Futures trading. | Python, Binance API | 
-
-
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/More_Projects_Coming_Soon-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
